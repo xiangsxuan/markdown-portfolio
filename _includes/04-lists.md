@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. What I Like
+	1. Coding
+		- C#
+		- Java
+		- C 
+	2. Reading
